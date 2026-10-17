@@ -1,0 +1,31 @@
+{
+  "id": "pilot_001_scene_01",
+  "duration_seconds": 10,
+  "language": "tr-TR",
+  "aspect_ratio": "16:9",
+  "characters": [
+    "leo",
+    "mia",
+    "pofuduk",
+    "mavis"
+  ],
+  "setting": "Bright magical meadow at the entrance to an enchanted forest",
+  "action": "Mia points to rainbow-colored particles drifting toward the forest. Pofuduk hops in surprise. Maviş flaps wings. Leo turns toward Mia.",
+  "dialogue": [
+    {
+      "character": "mia",
+      "text": "Leo, bak! Gökkuşağının renkleri ormana gidiyor!"
+    },
+    {
+      "character": "leo",
+      "text": "O zaman onları takip edelim!"
+    }
+  ],
+  "constraints": [
+    "Use the four approved character reference PNG files without redesign.",
+    "Keep spoken dialogue in Turkish, no subtitles or text overlays.",
+    "Natural movements and accurate lip synchronization.",
+    "Do not generate video until user approves any paid provider usage."
+  ],
+  "status": "planned_not_generated"
+}
