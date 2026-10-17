@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "source_reference": "Mini Mucizeler TV user-supplied four-character reference sheet",
+  "reference_images": {
+    "leo": "assets/characters/leo.png",
+    "mia": "assets/characters/mia.png",
+    "pofuduk": "assets/characters/pofuduk.png",
+    "mavis": "assets/characters/mavis.png"
+  },
+  "characters": {
+    "leo": {
+      "name": "Leo",
+      "role": "main protagonist",
+      "appearance": "Young boy; tousled chestnut-brown hair, large brown eyes, blue zip hoodie with white drawstrings, jeans, blue-and-white sneakers",
+      "voice": "Cheerful, youthful, natural Turkish boy voice"
+    },
+    "mia": {
+      "name": "Mia",
+      "role": "friend",
+      "appearance": "Young girl; brown hair in two high pigtails with pink bows, big brown eyes, purple overalls over lavender flower-pattern shirt, purple sneakers",
+      "voice": "Bright, natural Turkish girl voice"
+    },
+    "pofuduk": {
+      "name": "Pofuduk",
+      "role": "friend",
+      "appearance": "Small fluffy white rabbit, long ears with pink inner fur, large blue eyes, pink nose, round tail",
+      "voice": "Playful, cute Turkish character voice if dialogue is needed"
+    },
+    "mavis": {
+      "name": "Maviş",
+      "role": "friend",
+      "appearance": "Small turquoise-blue baby dragon with large green eyes, cream belly, small horns and spikes, orange-peach wing membranes",
+      "voice": "Cute lively Turkish creature voice if dialogue is needed"
+    }
+  },
+  "rules": [
+    "Use exact reference images for every generation; do not redesign characters.",
+    "Never change clothes, colors, hairstyle, eye color, wings or proportions.",
+    "No logos, labels, text or watermarks in generated scenes.",
+    "Use Turkish dialogue; align voice and lip movements.",
+    "Reject outputs with wrong character count or appearance.",
+    "Paid video generation requires explicit approval before every call."
+  ]
+}
